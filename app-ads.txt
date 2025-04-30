@@ -236,3 +236,6 @@ e-planning.net, 79686787743ddfc5, reseller, c1ba615865ed87b2
 mango.mp, 323120, reseller
 smartclip.net, 15458, reseller
 smartclip.net, 27985, reseller
+app-stock.com, 384491, RESELLER
+
+smartadserver.com, 4190, RESELLER, 060d053dcf45cbf3
